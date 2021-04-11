@@ -31,6 +31,6 @@ The **aim** of this project was to compare the  distribution of joint power, mus
 
 ## Publication(s)
 
-Please cite the following publications if using code or data from this repository:
+Please cite the following publication if using code or data from this repository:
 
 Wilkinson, Ross D., Glen A. Lichtwark, and Andrew G. Cresswell. 2020. “The Mechanics of Seated and Nonseated Cycling at Very-High-Power Output: A Joint-Level Analysis.” Medicine & Science in Sports & Exercise 52 (7): 1585–94. <https://doi.org/10.1249/MSS.0000000000002285>.
